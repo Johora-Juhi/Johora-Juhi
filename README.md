@@ -22,12 +22,11 @@
 [![My Skills](https://skills.thijs.gg/icons?i=vscode,atom,git,github,figma&theme=dark)](https://skills.thijs.gg)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-[<img style="width:40px" src="facebook.png"/>](https://www.facebook.com/dipra.das.5/)
-[<img style="width:40px" src="linkedin.png"/>](www.linkedin.com/in/dipra-das5940)
-[<img style="width:40px" src="whatsapp.png"/>](https://www.facebook.com/dipra.das.5/)
-[<img style="width:40px" src="email.png"/>](https://www.facebook.com/dipra.das.5/)
+
+[<img style="width:40px" src="facebook.png"/>](https://www.facebook.com/profile.php?id=100082975533288)
+[<img style="width:40px" src="linkedin.png"/>](https://www.linkedin.com/in/johora-juhi/)
+[<img style="width:40px" src="whatsapp.png"/>](https://wa.me/+8801978110498)
+[<img style="width:40px" src="email.png"/>](mailto:zohrajuhi1012@gmail.com)
 <!---
 Johora-Juhi/Johora-Juhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
