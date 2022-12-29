@@ -11,7 +11,7 @@
 
 <h3>Front End:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,tailwind,react,typescript&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwind,javascript,react,typescript,redux&theme=dark)](https://skills.thijs.gg)
 
 <h3>Back End:</h3>
 
