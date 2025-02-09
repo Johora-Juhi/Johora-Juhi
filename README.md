@@ -4,7 +4,7 @@
 
 -  Passionate about responsive web design, Always open to new technologies and learning new things
 -  Currently working with React JS, Node JS, Php
-- Check my [resume]([https://drive.google.com/file/d/1XhtieqIUeHnP9oI1WSZ-NOvrAVWyy5bg/view?usp=share_link](https://drive.google.com/file/d/1fDyONrdUK0OnFHn5nqHxOa3_DLtCp0W-/view?usp=drive_link))
+- Check my [resume]([https://drive.google.com/file/d/1XhtieqIUeHnP9oI1WSZ-NOvrAVWyy5bg/view?usp=share_link])
 
 
 <h3>Front End:</h3>
